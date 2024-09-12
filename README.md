@@ -8,7 +8,7 @@ Feel free to explore my repositories and connect with me!
 
 ## Skills & Technologies 🚀
 
-- **Languages:** JavaScript, TypeScript, Python, SQL, C#
+- **Languages:** JavaScript, TypeScript, Python, SQL, C#, C
 - **Frameworks:** React, Node.js, Svelte, Express.js, Next.js, React Native
 - **Embedded Systems:** Arduino, ESP32, Raspberry Pi, Lora
 - **Databases:** MongoDB, Firebase, PostgreSQL

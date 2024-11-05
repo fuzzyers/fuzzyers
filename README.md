@@ -1,4 +1,4 @@
-# Welecome My Goodman, My Name is Jackson Williamson
+# Welcome My Goodman, My Name is Jackson Williamson
 
 I’m a passionate developer with a love for hands-on work with embedded technologies like Arduino and Raspberry Pi. I also have a great interest in web development, working on both the backend and front end, usually with Node.js-based technologies. 
 
